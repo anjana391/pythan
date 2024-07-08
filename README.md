@@ -1,4 +1,4 @@
-#Pythan
+# Pythan
 
 * Introduction
-1 First program
+1. First program
